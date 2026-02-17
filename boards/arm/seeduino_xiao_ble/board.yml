@@ -1,0 +1,7 @@
+build:
+  name: seeeduino_xiao_ble
+  arch: arm
+  mcu: nrf52840
+  soc: nrf52840
+  supported:
+    - seeeduino_xiao_ble
